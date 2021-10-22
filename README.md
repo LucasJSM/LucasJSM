@@ -1,10 +1,10 @@
-# Hi! I'm Lucas de Jesus
-### Future front-end developer.
+# Olá! Eu sou Lucas de Jesus
+### Futuro desenvolvedor front-end.
 
-- 🍄 I'm learning web programming with JavaScript and your frameworks
-- 👨🏽‍💻 I'm a tech enthusiast
-- 🤓 I enjoy some science fiction...
-- 🤐 Shhhh, I like superheroes
+- 🍄 Estou aprendendo programação web com frameworks e bibliotecas JavaScript
+- 👨🏽‍💻 Entusiasta tech
+- 🤓 Me divirto com ficção científica
+- 🤐 Shhhh, eu gosto de super-heróis...
 
 <div>
   <a href="https://github.com/LucasJSM">
