@@ -1,6 +1,6 @@
 # Hi! I'm Lucas
 
-## Front-end developer.
+## Full-stack developer.
 
 <div>
   <ul>
