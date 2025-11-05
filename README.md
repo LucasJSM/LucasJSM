@@ -3,17 +3,16 @@
 > - 🎓 **Bacharel em Ciência da Computação**
 > - ⚙️ **Foco em Full Stack**
 > - 🎲 **Estudando Análise de Dados**
-> - 🦸 **Gosto de filmes de super-heróis**
 
 ## 📊 GitHub Insights
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=LucasJSM&show_icons=true&theme=midnight-purple&hide=prs&hide_title=true&bg_color=00000000&color=&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=LucasJSM&show_icons=true&theme=midnight-purple#gh-dark-mode-only&hide=prs&hide_title=true&bg_color=00000000&color=&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasJSM&layout=compact&theme=midnight-purple&langs_count=4&bg_color=00000000&hide_border=true&hide=html" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasJSM&layout=compact&theme=midnight-purple#gh-dark-mode-only&langs_count=4&bg_color=00000000&hide_border=true&hide=html" />
     </td>
   </tr>
 </table>
