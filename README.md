@@ -12,7 +12,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=LucasJSM&show_icons=true&theme=midnight-purple#gh-dark-mode-only&hide=prs&hide_title=true&bg_color=00000000&color=&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasJSM&layout=compact&theme=midnight-purple#gh-dark-mode-only&langs_count=4&bg_color=00000000&hide_border=true&hide=html" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasJSM&layout=compact&theme=midnight-purple#gh-dark-mode-only&langs_count=4&bg_color=00000000&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -20,7 +20,7 @@
 <br />
 
 ## 💻 **Tecnologias que utilizo**
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
