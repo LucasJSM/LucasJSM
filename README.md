@@ -6,7 +6,7 @@
 
 ## 📊 GitHub Stats:
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=LucasJSM&theme=midnight-purple&hide_border=true&border_radius=10&short_numbers=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LucasJSM&theme=midnight-purple&hide_border=true&border_radius=10&mode=weekly)](https://git.io/streak-stats)
 
 ## 💻 **Tecnologias que utilizo**
 
