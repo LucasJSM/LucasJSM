@@ -6,8 +6,13 @@
 
 ## 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LucasJSM&theme=midnight-purple&hide_border=false&border_radius=5&mode=weekly&card_height=200)](https://git.io/streak-stats)
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/LucasJSM?cardType=level-alternate&theme=midnight-purple&fontFamily=Roboto&preferLogin=false)](https://git.io/awesome-stats-card)
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=LucasJSM&theme=midnight-purple&hide_border=false&border_radius=5&mode=weekly&card_height=200)](https://git.io/streak-stats)
+
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/LucasJSM?cardType=level-alternate&theme=midnight-purple&fontFamily=Roboto&preferLogin=false)](https://git.io/awesome-stats-card)
+
+</div>
 
 ## 💻 **Tecnologias que utilizo**
 
