@@ -4,7 +4,7 @@
 > - ⚙️ **Foco em Desenvolvimento Full Stack**
 > - 🎲 **Estudando Análise de Dados**
 
-## 📊 GitHub Stats:
+## 📊 GitHub Insights:
 
 <div align="center">
   
